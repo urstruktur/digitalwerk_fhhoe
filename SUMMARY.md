@@ -1,0 +1,17 @@
+# Table of contents
+
+* [DigitalWerk FHOOE](README.md)
+  * [Past projects](digitalwerk-fhooe/past-projects/README.md)
+    * [Physical Prototpying 2021: Culinatronics](digitalwerk-fhooe/past-projects/physical-prototpying-2021-culinatronics/README.md)
+      * [Student Projects](digitalwerk-fhooe/past-projects/physical-prototpying-2021-culinatronics/student-projects.md)
+    * [Roboexotica 2021: Ars Electronica Edition](digitalwerk-fhooe/past-projects/roboexotica-2021-ars-electronica-edition/README.md)
+      * [Panel Discussion](digitalwerk-fhooe/past-projects/roboexotica-2021-ars-electronica-edition/panel-discussion.md)
+    * [Hedonistika 2022: Ars Electronica Edition](digitalwerk-fhooe/past-projects/hedonistika-2022-ars-electronica-edition.md)
+    * [Improvised Technology](digitalwerk-fhooe/past-projects/improvised-technology/README.md)
+      * [Post project roundup](digitalwerk-fhooe/past-projects/improvised-technology/post-project-roundup.md)
+  * [Projects in progress](digitalwerk-fhooe/projects-in-progress/README.md)
+    * [Techno-Utopia](digitalwerk-fhooe/projects-in-progress/techno-utopia.md)
+    * [Physical Prototyping 2022: Uncomfortable Robotics](digitalwerk-fhooe/projects-in-progress/physical-prototyping-2022-uncomfortable-robotics/README.md)
+      * [Prototyping Interactions through Bodystorming](digitalwerk-fhooe/projects-in-progress/physical-prototyping-2022-uncomfortable-robotics/prototyping-interactions-through-bodystorming.md)
+      * [Student Projects](digitalwerk-fhooe/projects-in-progress/physical-prototyping-2022-uncomfortable-robotics/student-projects/README.md)
+        * [Project A](digitalwerk-fhooe/projects-in-progress/physical-prototyping-2022-uncomfortable-robotics/student-projects/project-a.md)
