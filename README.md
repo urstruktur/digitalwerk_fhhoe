@@ -6,7 +6,7 @@ coverY: 182.33186490455213
 
 # DigitalWerk FHOOE
 
-## Inciting passion for technology
+## Inciting passion for gechnology
 
 _DigitalWerk_ pursues the goal of imparting competencies in the field of robotics for any age group, through school and university, and beyond professional life. This will be accomplished through the conception of interdisciplinary, inter-university courses, as well as the development of new approaches to knowledge transfer through public and semi-public events to generally arouse interest in the topics of robotics and technology and to make digitization an interactive experience.
 
