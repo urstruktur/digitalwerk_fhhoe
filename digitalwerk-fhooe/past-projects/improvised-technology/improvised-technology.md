@@ -20,6 +20,8 @@ Flo asked for the first volunteer. There is a bit of silence, and people looking
 
 The scene displayed a funny switch of power between the user and the machine. Because she displayed signs of sadness and stubbornness, he started treating her with more empathy. Started treating her more like a human. Ask her what he could do to make her feel better, promising he would cook more. And warm up less food that smells bad. Through what seemed at moments like a conversation between a parent wanting something and a child refusing to do it, they finally found a compromise, she dropped her defences and started working again.
 
+[[/digitalwerk-fhooe/past-projects/improvised-technology/RIT_Scene-1.jpg]]
+
 ### Scene 2: Automatic make up applier
 The second scene was set up as a reality tv show. Two people from the audience were invited on stage, one being the host, the other an inventor of a machine that does not exist in our reality. Flo played the part of simultaneous translation into sign language. The audience chose the invented machine to be an automatic make up applier. But it sometimes made you look like a clown. There was an applause, and the host invited the inventor on stage. The inventor explained the history of a boxing match where she first got the idea. Her make up prototype at the time accidentally gave people a red nose if applied with too much pressure. But from then on, she designed the whole machine in a way it could only be applied by punching people in the face. It was an instant hit. The specific look was a part of the appeal, she reflected. The host asked about some specifics about the development of the device, and as the inventor was explaining them, Flo acted/mimed out all the aspect of the story in a very expressive way.
 
