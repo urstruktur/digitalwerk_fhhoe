@@ -16,10 +16,9 @@ The role of the _Fachhochschule Oberösterreich_ is focused on the development a
 
 ### Projects
 
-* [Physical Prototyping 2021: Culinatronics](digitalwerk-fhooe/past-projects/physical-prototpying-2021-culinatronics/)
-* [Physical Prototyping 2022: Uncomfortable Robotics](digitalwerk-fhooe/projects-in-progress/physical-prototyping-2022-uncomfortable-robotics/)
-* [Roboexotica 2021: Ars Electronica Edition](digitalwerk-fhooe/past-projects/roboexotica-2021-ars-electronica-edition/)
-* [Hedonistika 2022: Ars Electronica Edition](digitalwerk-fhooe/past-projects/hedonistika-2022-ars-electronica-edition.md)
-* [Improvised Technology: A robotic improvisational theatre](digitalwerk-fhooe/past-projects/improvised-technology/)
-* [Techno-Utopia: Envisioning the future with young Fantasy and Sci-Fi Fans](digitalwerk-fhooe/projects-in-progress/techno-utopia.md)
-
+* [Physical Prototyping 2021: Culinatronics](readme/physical-prototpying-2021-culinatronics/)
+* [Physical Prototyping 2022: Uncomfortable Robotics](readme/physical-prototyping-2022-uncomfortable-robotics/)
+* [Roboexotica 2021: Ars Electronica Edition](readme/roboexotica-2021-ars-electronica-edition/)
+* [Hedonistika 2022: Ars Electronica Edition](readme/hedonistika-2022-ars-electronica-edition.md)
+* [Improvised Technology: A robotic improvisational theatre](readme/improvised-technology/)
+* [Techno-Utopia: Envisioning the future with young Fantasy and Sci-Fi Fans](readme/techno-utopia.md)
