@@ -1,3 +1,0 @@
-# Candy Catapult
-
-jhjhjhj
