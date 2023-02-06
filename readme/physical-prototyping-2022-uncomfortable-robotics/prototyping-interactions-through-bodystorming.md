@@ -11,3 +11,5 @@ description: >-
 Theoretical and methodological analysis of psychological models to **understand, and predict user behavior** and **provide guidelines and requirements for robot design**.
 
 Development and empirical analysis of a framework aimed at defining the **role of aggression in Human-Robot Interaction**.
+
+Application of framework in the student projects.
