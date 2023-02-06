@@ -11,6 +11,5 @@
       * [Project X](readme/physical-prototpying-2021-culinatronics/student-projects/project-x.md)
   * [Roboexotica 2021: Ars Electronica Edition](readme/roboexotica-2021-ars-electronica-edition/README.md)
     * [Panel Discussion](readme/roboexotica-2021-ars-electronica-edition/panel-discussion.md)
-  * [Hedonistika 2022: Ars Electronica Edition](readme/hedonistika-2022-ars-electronica-edition.md)
-  * [Improvised Technology](readme/improvised-technology/README.md)
-    * [Post project roundup](readme/improvised-technology/post-project-roundup.md)
+  * [Hedonistika 2022: Ars Electronica Edition](readme/hedonistika-2022-ars-electronica-edition/README.md)
+    * [Improvised Technology](readme/hedonistika-2022-ars-electronica-edition/improvised-technology.md)

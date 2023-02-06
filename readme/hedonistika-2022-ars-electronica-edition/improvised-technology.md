@@ -14,7 +14,7 @@ The performance included:
 2. Warmup, consisting of a few different exercises to get people moving, excited and hopefully willing to join Flo on stage.
 3. Four scenes, each in a different form, with a different setting, about a different subject, with different people on stage.
 
-//how do i add images again?
+<figure><img src="../../.gitbook/assets/impro_theatre.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Scene 1: A broken microwave
 
@@ -39,3 +39,4 @@ The scene showed how we can explore one single aspect of a product from various 
 The final scene was to act as a part of a manufacturing line. Everybody was invited on stage to perform one repetitive movement. One person started and the next followed. Until a whole production line for an un-existing product was created.
 
 Through improvisational scenes, the experiment showed how small but important aspects of interacting with devices became apparent in this setting of spontaneous reactions. The most obvious become the most intuitive. We see a contribution of this performance on one hand through a critical reflection on our use of technology today, and on the other as a potential methodology in ideating new interaction processes with devices.
+
