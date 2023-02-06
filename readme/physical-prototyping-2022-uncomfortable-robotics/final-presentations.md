@@ -11,3 +11,5 @@ In unbequemen Maschinen steckt oft auch eine große Portion Humor. Die meisten d
 Zu Gast war bei der Präsentation auch die italienische Psychologin und PhD-Studentin Andrea Rezzani welche den Kurs mitgestaltete. Ihre Forschung im Human Technologies Lab an der Freien Universität Bozen beschäftigt sich mit dem Zusammenhang zwischen menschlicher Aggression und Technologie. Sie leitete einen Teil der Ideenfindung, bei der Interaktionen mit den Prototypen schauspielerisch demonstriert wurden.
 
 Rückblickend war das Experiment, die Ergebnisse öffentlich zu präsentieren, ein Erfolg. Das Setting mit Unterhaltungscharakter motivierte die Studierenden eine interessante Präsentation vorzubereiten und ihren Projekten noch den letzten Feinschliff zu verleihen. Das Thema hat gezeigt, dass das Spielerische und Experimentelle ein wichtiger Bestandteil von Interaktionsdesign sein kann und dass Unbequemes nicht grundsätzlich schlecht sein muss, sondern uns zu neuen Perspektiven und Lösungen führen kann.
+
+<figure><img src="../../.gitbook/assets/20230117_104949.jpg" alt=""><figcaption></figcaption></figure>
