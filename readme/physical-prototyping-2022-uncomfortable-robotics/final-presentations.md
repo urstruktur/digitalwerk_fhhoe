@@ -1,3 +1,7 @@
+---
+description: PR Artikel über die Abschlusspräsentationen des Kurses
+---
+
 # Final presentations
 
 Am 17.1.2023 fanden die Abschlusspräsentationen des Masterkurses Design for Physical Prototyping vom Studiengang Interactive Media erstmals in einem öffentlichen Rahmen statt, um auch die Aufmerksamkeit und Rückmeldungen von Außenstehenden zu gewinnen. Die ungewohnte Dynamik einer öffentlichen Demonstration der Projekte passte perfekt zum diesjährigen Thema des Kurses: Uncomfortable Devices oder auch Unbequeme Geräte. Da kommt gleich die Frage auf: Warum sollte eins sich abmühen Geräte zu bauen, welche Unbehagen hervorrufen?

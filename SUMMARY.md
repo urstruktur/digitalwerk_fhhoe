@@ -19,6 +19,8 @@
         * [Project proposal](readme/physical-prototyping-2022-uncomfortable-robotics/student-projects/waste-bin/project-proposal.md)
         * [Implementation of the waste recognition](readme/physical-prototyping-2022-uncomfortable-robotics/student-projects/waste-bin/implementation-of-the-waste-recognition.md)
         * [Implementation of the bin](readme/physical-prototyping-2022-uncomfortable-robotics/student-projects/waste-bin/implementation-of-the-bin.md)
+      * [Saltapult](readme/physical-prototyping-2022-uncomfortable-robotics/student-projects/saltapult/README.md)
+        * [Project proposal](readme/physical-prototyping-2022-uncomfortable-robotics/student-projects/saltapult/project-proposal.md)
   * [Hedonistika 2022: Ars Electronica Edition](readme/hedonistika-2022-ars-electronica-edition/README.md)
     * [Improvised Technology](readme/hedonistika-2022-ars-electronica-edition/improvised-technology.md)
   * [Techno-Utopia](readme/techno-utopia.md)
