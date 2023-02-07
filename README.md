@@ -8,11 +8,11 @@ coverY: 182.33186490455213
 
 ## Inciting passion for technology
 
-_DigitalWerk_ pursues the goal of imparting competencies in the field of robotics for any age group, through school and university, and beyond professional life. This will be accomplished through the conception of interdisciplinary, inter-university courses, as well as the development of new approaches to knowledge transfer through public and semi-public events to generally arouse interest in the topics of robotics and technology and to make digitization an interactive experience.
+_DigitalWerk_ pursues the goal of imparting competencies in the field of robotics for any age group, through school and university, and beyond professional life. This will be accomplished through the conception of interdisciplinary, inter-university courses and the development of new approaches to knowledge transfer through public and semi-public events to arouse interest in the topics of robotics and technology and make digitization an interactive experience.
 
-### Role of the Universtiy of Applied Sciences Upper Austria
+### Role of the University of Applied Sciences Upper Austria
 
-The role of the _Fachhochschule Oberösterreich_ is focused on the development and conduction of inter-university teaching formats but also reaching a target audience beyond an academic context through public events which are impart unterstanding, appreciation and compentencies of technology in the context of digitization. The endeavours are focused on Workpackage 7: knowledge transfer (_AP7: Wissensvermittlung_).
+The role of the _Fachhochschule Oberösterreich_ is focused on the development and conduction of new teaching formats but also on reaching a target audience beyond an academic context through public events which impart understanding, appreciation and competencies of technology in the context of digitization. The endeavours are focused on Workpackage 7: knowledge transfer (_AP7: Wissensvermittlung_).
 
 ### Projects
 
