@@ -2,13 +2,7 @@
 
 Project documentation for the **Design for Physical Prototyping** course 2022/23 focusing on the topic of **Uncomfortable Devices**.
 
-## Team
 
-* Felix Rader
-* Tobias Wagner
-* Valentin Postl
-* Daniel Flockert
-* Wolfgang Schwendtbauer
 
 ## Abstract
 
