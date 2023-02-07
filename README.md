@@ -16,9 +16,9 @@ The role of the _Fachhochschule Oberösterreich_ is focused on the development a
 
 ### Projects
 
-* [Physical Prototyping 2021: Culinatronics](readme/physical-prototpying-2021-culinatronics/)
+* [Physical Prototyping 2021: Culinatronics](readme/physical-prototpying-2021-culinatronics.md)
 * [Physical Prototyping 2022: Uncomfortable Robotics](readme/physical-prototyping-2022-uncomfortable-robotics/)
-* [Roboexotica 2021: Ars Electronica Edition](readme/roboexotica-2021-ars-electronica-edition/)
+* [Roboexotica 2021: Ars Electronica Edition](readme/roboexotica-2021-ars-electronica-edition.md)
 * [Hedonistika 2022: Ars Electronica Edition](readme/hedonistika-2022-ars-electronica-edition/)
 * [Improvised Technology: A robotic improvisational theatre](readme/hedonistika-2022-ars-electronica-edition/improvised-technology.md)
 * [Techno-Utopia: Envisioning the future with young Fantasy and Sci-Fi Fans](readme/techno-utopia.md)

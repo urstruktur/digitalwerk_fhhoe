@@ -1,10 +1,8 @@
 # Table of contents
 
 * [DigitalWerk FHOOE](README.md)
-  * [Roboexotica 2021: Ars Electronica Edition](readme/roboexotica-2021-ars-electronica-edition/README.md)
-    * [Panel Discussion](readme/roboexotica-2021-ars-electronica-edition/panel-discussion.md)
-  * [DPP 2021: Culinatronics](readme/physical-prototpying-2021-culinatronics/README.md)
-    * [Student Projects](readme/physical-prototpying-2021-culinatronics/student-projects.md)
+  * [Roboexotica 2021: Ars Electronica Edition](readme/roboexotica-2021-ars-electronica-edition.md)
+  * [DPP 2021: Culinatronics](readme/physical-prototpying-2021-culinatronics.md)
   * [DPP 2022: Uncomfortable Devices](readme/physical-prototyping-2022-uncomfortable-robotics/README.md)
     * [Final presentations](readme/physical-prototyping-2022-uncomfortable-robotics/final-presentations.md)
     * [Prototyping Interactions through Bodystorming](readme/physical-prototyping-2022-uncomfortable-robotics/prototyping-interactions-through-bodystorming.md)
