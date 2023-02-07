@@ -1,7 +1,6 @@
 # Table of contents
 
 * [DigitalWerk FHOOE](README.md)
-  * [Roboexotica 2021: Ars Electronica Edition](readme/roboexotica-2021-ars-electronica-edition.md)
   * [DPP 2021: Culinatronics](readme/physical-prototpying-2021-culinatronics.md)
   * [DPP 2022: Uncomfortable Devices](readme/physical-prototyping-2022-uncomfortable-robotics/README.md)
     * [Final presentations](readme/physical-prototyping-2022-uncomfortable-robotics/final-presentations.md)
@@ -21,6 +20,7 @@
         * [Implementation of the bin](readme/physical-prototyping-2022-uncomfortable-robotics/student-projects/waste-bin/implementation-of-the-bin.md)
       * [Saltapult](readme/physical-prototyping-2022-uncomfortable-robotics/student-projects/saltapult/README.md)
         * [Project proposal](readme/physical-prototyping-2022-uncomfortable-robotics/student-projects/saltapult/project-proposal.md)
+  * [Roboexotica 2021: Ars Electronica Edition](readme/roboexotica-2021-ars-electronica-edition.md)
   * [Hedonistika 2022: Ars Electronica Edition](readme/hedonistika-2022-ars-electronica-edition/README.md)
     * [Improvised Technology](readme/hedonistika-2022-ars-electronica-edition/improvised-technology.md)
   * [Techno-Utopia](readme/techno-utopia.md)
